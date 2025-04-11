@@ -1,11 +1,9 @@
-
-tensorflow==2.17.0
+streamlit
+tensorflow
+opencv-python-headless
 numpy
-opencv-python
-pillow
-streamlit>=1.30.0
-altair==4.2.2
-pandas
+Pillow
+
 
 
 
